@@ -34,4 +34,3 @@ for(var i=0;i<products_data.length;i++){
 }
 
 app.listen(3000, () => console.log('Server running......'));
-app.listen(3000, () => console.log('Server running......'));
